@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
-Hey, I’m **Alex (Ibrahim Jimoh)**  
+Hey, I’m **Alex (Jolaoso Kolawole)**  
 
 - 💻 Software Engineer
 - 🎮 Passionate about building and experimenting  
