@@ -8,10 +8,10 @@
 
 Hey, I’m **Alex (Ibrahim Jimoh)**  
 
-- 💻 Software & Game Development  
+- 💻 Software Engineer
 - 🎮 Passionate about building and experimenting  
 - 📚 Currently learning Python, HTML & Java  
-- 📊 Exploring Data Analysis (starting soon)  
+- 📊 Exploring Data Analysis
 - ⚡ Focused on clean, minimal systems  
 
 ---
