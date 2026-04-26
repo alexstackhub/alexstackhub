@@ -1,29 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Welcome%20to%20AlexStackHub&fontColor=ffffff&fontSize=30" width="100%"/>
+<<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Welcome%20to%20AlexStackHub&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
 
 ---
 
 ## 👤 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
 Hey, I’m **Alex (Ibrahim Jimoh)**  
 
 - 💻 Software & Game Development  
-- 🎮 Interested in building and experimenting  
-- 📚 Currently learning Python & development  
-- ⚡ Focused on clean, efficient systems  
+- 🎮 Passionate about building and experimenting  
+- 📚 Currently learning Python, HTML & Java  
+- ⚡ Focused on clean, minimal systems  
 
 ---
 
-## 🛠 Technologies
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java)
 
 ---
 
-## 📊 Statistics
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Alexstackhub&show_icons=true&theme=github_dark)
 
@@ -37,11 +37,10 @@ Hey, I’m **Alex (Ibrahim Jimoh)**
 
 ---
 
-## 🔗 Connect
+## 📩 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/Alexstackhub)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail)](mailto:alexstackhub@outlook.com)
+[![Contact Me](https://img.shields.io/badge/Contact-0d0d0d?style=for-the-badge&logo=gmail)](mailto:alexstackhub@outlook.com)
 
 ---
 
-> “Consistency beats intensity.”
+> “Code is never finished, only improved.”
