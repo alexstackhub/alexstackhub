@@ -1,4 +1,4 @@
-<<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Welcome%20to%20AlexStackHub&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?..."/>
 
 ---
 
